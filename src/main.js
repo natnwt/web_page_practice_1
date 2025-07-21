@@ -1,3 +1,6 @@
+import './style.css';
+
+
 let isDark = localStorage.getItem('dark_scheme');
 const darkModeBtn = document.getElementById('dark-mode-btn');
 
